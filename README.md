@@ -58,7 +58,7 @@ By default, I will book us time to meet for 30 minutes every 2 weeks. Additional
 to book this time with no guilt. As mentioned before, this is not the only time you can reach me - if there is ever something on your mind,
 please reach out. If I am busy, I will find time for you.
 
-If you don't like the cadance of our 1-on-1's, please let me know, and I am happy to adjust. The same goes for timing that works best for
+If you don't like the cadence of our 1-on-1's, please let me know, and I am happy to adjust. The same goes for timing that works best for
 you - anything I can do to prevent [unnecessary context switching](https://blog.trello.com/why-context-switching-ruins-productivity). As
 mentioned before, 1-on-1's are your time with me - and if you want to skip a 1-on-1, or cut one short, that is completely fine. 
 
