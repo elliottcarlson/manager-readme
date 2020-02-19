@@ -48,19 +48,11 @@ make are beneficial for all parties. If you ever have feedback on process - plea
 at all times, and having a process that makes sense for everyone is critical.
 
 # 1-on-1's
-I'm a big fan of 1-on-1's. I believe that these meetings are for you to set the agenda: What would you like to talk about? What’s going
-well? What’s bugging you? These don’t need to be about work updates unless you really want to talk about work. If there are things that
-I want to ask you, I’ll do it, but this is your time. If I have feedback, I will also provide it during this time.
+1-on-1's are an important aspect of us working together. These meetings are meant to give you time with me, and I believe that the agenda should be set by you. This is a great time to talk about things that are on your mind. These meetings do not have to be centered around work unless you want to talk about that -- I will get my updates from our regular team stand ups, and reviewing the Jira board.
 
-While I have a preference to meeting for 30 minutes every week, that is not always feasible, nor something that everyone finds beneficial.
-By default, I will book us time to meet for 30 minutes every 2 weeks. Additionally, I will have Office Hours scheduled every Tuesday from
-12 to 2pm - this time slot is only available to my direct reports. If you want to have an additional 1-on-1 during an off-week, feel free
-to book this time with no guilt. As mentioned before, this is not the only time you can reach me - if there is ever something on your mind,
-please reach out. If I am busy, I will find time for you.
+I will use this time to also provide you feedback on an ongoing basis - as well as occasionally ask you for feedback on your peers. This feedback loop is really important to ensure yourself and your coworkers are never surprised during performance review cycle.
 
-If you don't like the cadance of our 1-on-1's, please let me know, and I am happy to adjust. The same goes for timing that works best for
-you - anything I can do to prevent [unnecessary context switching](https://blog.trello.com/why-context-switching-ruins-productivity). As
-mentioned before, 1-on-1's are your time with me - and if you want to skip a 1-on-1, or cut one short, that is completely fine. 
+My personal preference to 1-on-1's is a weekly cadance of 30 minutes. Since this is pretty much a meeting for you, you should feel empowered to cancel when you don't have anything to talk about - but, I prefer if you did not cancel two meetings in a row, even if we cut the meeting short.
 
 # Feedback
 I am a strong believer of [Radical Candor](https://www.youtube.com/watch?v=MIh_992Nfes); I want to ensure that you are receiving honest
@@ -75,12 +67,11 @@ Beyond that, I will go one step further and ask you three questions at the end o
 
 * "Anything else on your mind?" - Just in case you forgot something!
 * "What do you need from me?" - Am I blocking you on anything? Do you have any additional requests?
-* "What can I do better?" - This is me opening the conversation to receive feedback from you - please provide it if you have it!
+* "Do you have feedback for me?" - This is me opening the conversation to receive feedback from you - please provide it if you have it!
 
 I know that this gets repetitive - but it's very important to me to ask those questions every session.
 
-I will also send an anonymous feedback form on occassion to allow anyone to provide feedback they do not feel comfortable telling me in
-person.
+I will also send an anonymous feedback form on occassion to allow anyone to provide feedback they do not feel comfortable telling me in person.
 
 # "Where do I stand?"
 Part of my job is to track the performance of those who report to me - and obviously provide you with feedback on how to improve.
@@ -100,6 +91,8 @@ up - I am happy to discuss why I see you at a certain level.
 You will generally know when you are in the _Improvement Needed_ level. 
 
 You will **definitely** know when you are approaching or are at the _Unsatisfactory_ level.
+
+_Note_: My personal rating scale may or may not align with the one provided by HR officially -- I will do my best to explain any correlations they have to the company provided levels.
 
 # Things you should know about me
 I have personality quirks. We all do. Here are some things that I am both aware of, and that may impact how you work with me:
